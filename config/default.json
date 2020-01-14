@@ -1,0 +1,4 @@
+{
+	"mongoURL": "mongodb+srv://illia_kutnik:bagdad1258@devconnecter-u3cxj.mongodb.net/test?retryWrites=true&w=majority",
+	"secret": "glass"
+}
